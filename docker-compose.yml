@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: gdpr-consent-backend
+    restart: unless-stopped
+    ports:
+      - "3001:3001"
+    environment:
+      - NODE_ENV=production
+      - PORT_START=3001
+      - PORT_MAX=3001
+      - JWT_SECRET=your-secure-jwt-secret-key
+      - JWT_EXPIRY=30m
+      - CORS_ORIGIN=http://localhost:8080
+    volumes:
+      - ./data:/app/data
+    networks:
+      - gdpr-network
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: gdpr-consent-frontend
+    restart: unless-stopped
+    ports:
+      - "8080:80"
+    depends_on:
+      - backend
+    networks:
+      - gdpr-network
+
+networks:
+  gdpr-network:
+    driver: bridge

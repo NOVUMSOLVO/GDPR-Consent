@@ -1,0 +1,135 @@
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
+
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
+
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under common
+      control with that entity. For the purposes of this definition,
+      "control" means (i) the power, direct or indirect, to cause the
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the
+      outstanding shares, or (iii) beneficial ownership of such entity.
+
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
+
+      "Source" form shall mean the preferred form for making modifications,
+      including but not limited to software source code, documentation
+      source, and configuration files.
+
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but
+      not limited to compiled object code, generated documentation,
+      and conversions to other media types.
+
+a) View and evaluate the Software for demonstration purposes only
+b) Use the Software for internal evaluation and testing purposes
+c) Study the Software's architecture and implementation patterns
+
+2. RESTRICTIONS
+
+You may NOT:
+
+a) Use the Software for commercial purposes without explicit written permission
+b) Distribute, sublicense, or transfer the Software or any portion thereof
+c) Reverse engineer, decompile, or disassemble the Software
+d) Remove or modify any proprietary notices, labels, or marks
+e) Create derivative works based on the Software
+f) Extract, copy, or reuse any proprietary business logic or algorithms
+g) Use the Software in production environments without a commercial license
+h) Share access credentials or allow unauthorized access to the Software
+
+3. PROPRIETARY BUSINESS KNOWLEDGE
+
+The Software contains proprietary and confidential information including but not limited to:
+
+- Healthcare data management methodologies
+- GDPR compliance algorithms and workflows
+- Security implementation patterns
+- Audit and reporting mechanisms
+- Data retention and anonymization strategies
+- Consent management business rules
+
+This information is considered trade secrets and confidential information of NOVUMSOLVO.
+
+4. CONFIDENTIALITY
+
+You agree to:
+
+a) Maintain the confidentiality of all proprietary information
+b) Not disclose any business logic, algorithms, or methodologies to third parties
+c) Implement reasonable security measures to protect the Software
+d) Limit access to authorized personnel only
+e) Report any security incidents or unauthorized access immediately
+
+5. INTELLECTUAL PROPERTY
+
+All rights, title, and interest in and to the Software, including all intellectual 
+property rights, remain with NOVUMSOLVO. This license does not grant you any rights 
+to patents, copyrights, trade secrets, trademarks, or any other intellectual property.
+
+6. DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
+PARTICULAR PURPOSE, AND NON-INFRINGEMENT. NOVUMSOLVO DOES NOT WARRANT THAT THE 
+SOFTWARE WILL MEET YOUR REQUIREMENTS OR THAT ITS OPERATION WILL BE UNINTERRUPTED 
+OR ERROR-FREE.
+
+7. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL NOVUMSOLVO BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR 
+CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS 
+OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY 
+OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+8. TERMINATION
+
+This license is effective until terminated. NOVUMSOLVO may terminate this license 
+at any time without notice if you fail to comply with any term of this Agreement. 
+Upon termination, you must cease all use of the Software and destroy all copies.
+
+9. COMPLIANCE
+
+You agree to comply with all applicable laws and regulations, including but not 
+limited to export control laws, data protection regulations (GDPR, HIPAA, etc.), 
+and intellectual property laws.
+
+10. COMMERCIAL LICENSING
+
+For commercial use, production deployment, or redistribution rights, contact 
+NOVUMSOLVO for a commercial license agreement.
+
+Contact: legal@novumsolvo.com
+
+11. GOVERNING LAW
+
+This Agreement shall be governed by and construed in accordance with the laws of 
+[Jurisdiction], without regard to its conflict of law provisions.
+
+12. ENTIRE AGREEMENT
+
+This Agreement constitutes the entire agreement between you and NOVUMSOLVO regarding 
+the Software and supersedes all prior or contemporaneous agreements, representations, 
+warranties, and understandings.
+
+BY USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, UNDERSTAND 
+IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.
+
+---
+
+For questions about this license or to request commercial licensing:
+Email: legal@novumsolvo.com
+Website: https://novumsolvo.com
+
+Last Updated: December 2024
